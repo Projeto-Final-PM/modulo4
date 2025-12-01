@@ -8,3 +8,6 @@ Classe que contém o listener Kafka. Possui o método anotado com `@KafkaListene
 
 ### **application.yml**
 Arquivo de configuração do Kafka. Define os brokers, o groupId do consumer e o tópico que será consumido.
+
+## Consumers
+- consumer 2 na branch modulo4.3
