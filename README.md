@@ -11,3 +11,6 @@ Classe principal da aplicação. Inicia o Spring Boot e carrega as configuraçõ
 
 ### **application.yml**
 Arquivo de configuração do Kafka. 
+
+## Consumers
+O consumer e consumer 2 estão na branch modulo4.2 e modulo4.3
